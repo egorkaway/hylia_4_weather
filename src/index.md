@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Weather trivia for the changing world
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
