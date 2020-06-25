@@ -2,12 +2,12 @@
   "showThemeCredit": true,
   "name": "Weather Gizmo",
   "shortDesc": "Will. Add. More. Later.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "url": "https://weather-gizmo.com/",
+  "authorEmail": "weather@adekvat.us",
+  "authorHandle": "@gizmoweather",
+  "authorName": "Weather Man",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
+  "maxPostsPerPage": 7,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png"
 }
