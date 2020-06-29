@@ -1,8 +1,8 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "Weather Gizmo",
-  "shortDesc": "Will. Add. More. Later.",
-  "url": "https://weather-gizmo.com/",
+  "shortDesc": "Will. Add. More. Later",
+  "url": "https://weather-gizmo.com",
   "authorEmail": "weather@adekvat.us",
   "authorHandle": "@gizmoweather",
   "authorName": "Weather Man",

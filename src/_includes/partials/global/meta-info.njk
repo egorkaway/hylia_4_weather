@@ -18,9 +18,12 @@
 <meta property="og:title" content="{{ pageTitle }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ currentUrl }}" />
+<meta name="twitter:title" content="Дату открытия минских кинотеатров перенесли на 2 недели. Вот почему">
+<meta name="twitter:card" content="summary_large_image">
 
 {% if site.authorHandle %}
   <meta name="twitter:creator" content="@{{ site.authorHandle | replace('@', '') }}" />
+  <meta name="twitter:site" content="@{{ site.authorHandle | replace('@', '') }}">
 {% endif %}
 
 {% if metaDesc %}
@@ -30,8 +33,15 @@
 {% endif %}
 
 {% if socialImage %}  
-  <meta property="og:image" content="{{ socialImage }}" />
-  <meta name="twitter:image" content="{{ socialImage }}" />
+  {% set socialImageUrl = site.url + socialImage.replace(r/^\/?/, '/') %}
+  <meta property="og:image" content="{{ socialImageUrl }}" />
+  {% set socialImageInfo = helpers.getImageInfo(socialImage) %}
+  {% if socialImageInfo %}
+    <meta property="og:image:width" content="{{ socialImageInfo.width }}" />
+    <meta property="og:image:height" content="{{ socialImageInfo.height }}" />
+    <meta property="og:image:type" content="{{ socialImageInfo.mime }}" />
+  {% endif %}
+  <meta name="twitter:image" content="{{ socialImageUrl }}" />
   <meta property="og:image:alt" content="Page image for {{ site.name }}" />
   <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
 {% endif %}
