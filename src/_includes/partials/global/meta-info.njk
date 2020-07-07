@@ -2,6 +2,10 @@
 {% set pageDesc = '' %}
 {% set siteTitle = site.name %}
 {% set currentUrl = site.url + page.url %}
+{% set firstImage = content | firstImageFilter %}
+{% if firstImage | length %}
+  {% set socialImage = firstImage %}
+{% endif %}
 
 {% if metaTitle %}
   {% set pageTitle = metaTitle %}
@@ -32,7 +36,7 @@
   <meta property="og:description" content="{{ metaDesc }}" />
 {% endif %}
 
-{% if socialImage %}  
+{% if socialImage %}
   {% set socialImageUrl = site.url + socialImage.replace(r/^\/?/, '/') %}
   <meta property="og:image" content="{{ socialImageUrl }}" />
   {% set socialImageInfo = helpers.getImageInfo(socialImage) %}
