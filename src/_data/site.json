@@ -1,13 +1,13 @@
 {
   "showThemeCredit": false,
   "name": "Weather Gizmo",
-  "shortDesc": "Will. Add. More. Later",
+  "shortDesc": "Knowing what weather is coming your way is a basic need.",
   "url": "https://weather-gizmo.com",
   "authorEmail": "weather@adekvat.us",
   "authorHandle": "@gizmoweather",
   "authorName": "Weather Man",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 7,
+  "maxPostsPerPage": 9,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png"
 }
