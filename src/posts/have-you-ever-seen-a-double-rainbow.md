@@ -1,6 +1,6 @@
 ---
 date: 2020-07-04
-title: Have you ever seen a double rainbow?
+title: Have You Ever Seen a Double Rainbow?
 tags:
 - rainbow
 
