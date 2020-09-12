@@ -1,6 +1,6 @@
 ---
 date: 2020-07-21
-title: Minimum Temperatures across Europe
+title: Minimum Temperatures Across Europe
 tags:
 - europe
 
