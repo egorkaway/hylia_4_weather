@@ -1,6 +1,6 @@
 ---
 date: 2020-09-07
-title: Where do tsunamis come from?
+title: Where Do Tsunamis Come From?
 tags:
 - sea
 - tsunami
