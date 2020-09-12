@@ -1,6 +1,6 @@
 ---
 date: 2020-06-17
-title: 'Do you know what lenticualr clouds are? '
+title: 'Do You Know What Lenticualr Clouds Are? '
 tags:
 - russia
 - usa
