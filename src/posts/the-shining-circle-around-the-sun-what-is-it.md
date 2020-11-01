@@ -1,6 +1,6 @@
 ---
 date: 2020-11-01
-title: The shining circle around the sun -— what is it?
+title: The shining circle around the sun — what is it?
 tags:
 - halo
 
