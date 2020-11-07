@@ -2,6 +2,7 @@
 date: 2020-11-07
 title: Does this link work for you already?
 tags:
+- belarus
 - new zealand
 - moldova
 - singapore
