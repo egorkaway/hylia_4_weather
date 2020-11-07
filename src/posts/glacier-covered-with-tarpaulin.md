@@ -2,6 +2,7 @@
 date: 2020-11-07
 title: Glacier Covered with Tarpaulin
 tags:
+- alps
 - glacier
 - Italy
 
