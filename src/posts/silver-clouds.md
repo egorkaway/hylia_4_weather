@@ -1,6 +1,6 @@
 ---
 date: 2020-07-05
-title: Silver Clouds
+title: Have You Seen Silver Clouds?
 tags:
 - Europe
 - alaska
