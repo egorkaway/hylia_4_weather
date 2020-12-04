@@ -1,6 +1,6 @@
 ---
 date: 2020-10-16
-title: Polar Lights
+title: Have You Seen Polar Lights?
 tags:
 - Russia
 - Iceland
@@ -8,7 +8,6 @@ tags:
 - Alaska
 
 ---
-  
 Polar lights are one of the most beautiful natural phenomena on Earth  
   
 If we were to rank the most beautiful atmospheric phenomena, we would definitely give one of the highest places to polar lights. The ideal time for them is clear frosty nights from September to March at latitudes of about 67–70°. Most often, polar lights can be seen in Alaska, in the northern regions of Canada, in Iceland, on the Scandinavian Peninsula, and in northern Russia.  
