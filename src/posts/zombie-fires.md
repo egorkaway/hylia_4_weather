@@ -1,6 +1,6 @@
 ---
 date: 2020-05-30
-title: Zombie Fires
+title: 'Did you know what "Zombie Fires" are? '
 tags:
 - alaska
 - russia
