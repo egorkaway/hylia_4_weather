@@ -1,7 +1,8 @@
 ---
 date: 2020-10-16
 title: What is a mirage and where does it come from?
-tags: []
+tags:
+- timeless
 
 ---
 Mirage is undoubtedly one of the most mysterious atmospheric phenomena that has always been associated with secrets and legends. But in reality, the mirage is easily explained from a scientific point of view.  
