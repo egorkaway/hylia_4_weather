@@ -2,13 +2,12 @@
 date: 2020-09-07
 title: Where Do Tsunamis Come From?
 tags:
+- timeless
 - sea
 - tsunami
 - alaska
 
 ---
-  
-  
 Tsunamis are mostly provoked by underwater earthquakes and underwater volcanic eruptions, which sharply raise or lower the seabed and, as a result, move huge masses of water. Until now, the mechanisms of the tsunami have not been thoroughly studied, and it is often difficult to detect an approaching dangerous wave since at first, it is not high enough to start sounding the alarm.  
   
 The biggest tsunami was recorded on July 9, 1958, in Alaska. On that day, the wave height exceeded 500 m and developed a speed of about 160 km/h.  
