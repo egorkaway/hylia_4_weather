@@ -1,7 +1,9 @@
 ---
 date: 2021-01-05
 title: What will the January sky show us?
-tags: []
+tags:
+- january
+- '2021'
 
 ---
 The night sky in January is traditionally considered the most beautiful and generous for astronomical observations’ lovers
