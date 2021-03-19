@@ -17,6 +17,7 @@ fields:
   label: tags
 pages:
 - src/posts/a-watermark-picture-one-might-or-might-not-use.md
+- src/posts/astronomical-spring.md
 - src/posts/august-2020-comets.md
 - src/posts/daytime-moon.md
 - src/posts/delta-aquarids-meteor-shower.md
